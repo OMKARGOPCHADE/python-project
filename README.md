@@ -19,13 +19,13 @@ This project is a simple command-line / console based Student Management System 
 1. Clone the repository:
 
 ```
-git clone https://github.com/your-username/python-cli-based-student-management-system.git
+git clone https://github.com/OMKARGOPCHADE/python-project.git
 ```
 
 2. Navigate to the project directory:
 
 ```
-cd python-cli-based-student-management-system
+cd python-project
 ```
 
 3. Install the requirements:
